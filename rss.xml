@@ -7,8 +7,32 @@
         <description><![CDATA[Get exercises and announcements]]></description>
         <atom:link href="http://sejdm.github.io/mth303/rss.xml" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>2025-08-09T12:03:00+5:30</lastBuildDate>
+        <lastBuildDate>2025-08-09T19:31:17+5:30</lastBuildDate>
         <item>
+    <title>Lecture slide 1</title>
+    <link>http://sejdm.github.io/mth303/texslides/2025-08-04-slides01.pdf</link>
+    <description><![CDATA[Lecture slide 1 has been posted.]]></description>
+    <pubDate>Mon, 04 Aug 2025 00:00:00 UT</pubDate>
+    <guid>http://sejdm.github.io/mth303/texslides/2025-08-04-slides01.pdf</guid>
+    <dc:creator>Shane D'Mello</dc:creator>
+</item>
+<item>
+    <title>Lecture slide 2</title>
+    <link>http://sejdm.github.io/mth303/texslides/2025-08-05-slides02.pdf</link>
+    <description><![CDATA[Lecture slide 2 has been posted.]]></description>
+    <pubDate>Tue, 05 Aug 2025 00:00:00 UT</pubDate>
+    <guid>http://sejdm.github.io/mth303/texslides/2025-08-05-slides02.pdf</guid>
+    <dc:creator>Shane D'Mello</dc:creator>
+</item>
+<item>
+    <title>Lecture slide 3</title>
+    <link>http://sejdm.github.io/mth303/texslides/2025-08-07-slides03.pdf</link>
+    <description><![CDATA[Lecture slide 3 has been posted.]]></description>
+    <pubDate>Thu, 07 Aug 2025 00:00:00 UT</pubDate>
+    <guid>http://sejdm.github.io/mth303/texslides/2025-08-07-slides03.pdf</guid>
+    <dc:creator>Shane D'Mello</dc:creator>
+</item>
+<item>
     <title>Exercise sheet 1</title>
     <link>http://sejdm.github.io/mth303/assignments/2025-08-08-exercise01.html</link>
     <description><![CDATA[Exercise sheet 1 has been posted.]]></description>
