@@ -7,16 +7,7 @@
         <description><![CDATA[Get exercises and announcements]]></description>
         <atom:link href="http://sejdm.github.io/mth303/announce/rss.xml" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>2024-09-03T17:45:49+5:30</lastBuildDate>
-        <item>
-    <title>2024-09-03-quiz</title>
-    <link>http://sejdm.github.io/mth303/announcements/2024-09-03-quiz.html</link>
-    <description><![CDATA[<div class="announcement"><p>There will be a <strong>quiz</strong> on <strong>Thursday</strong>, the <strong>5th of September</strong>.</p></div> <br /><span class="date">Last modified: 05:45 PM -  3 September, 2024 </span>
-]]></description>
-    <pubDate>Tue, 03 Sep 2024 00:00:00 UT</pubDate>
-    <guid>http://sejdm.github.io/mth303/announcements/2024-09-03-quiz.html</guid>
-    <dc:creator>Shane D'Mello</dc:creator>
-</item>
-
+        <lastBuildDate>Unknown</lastBuildDate>
+        
     </channel>
 </rss>
