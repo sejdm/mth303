@@ -7,8 +7,16 @@
         <description><![CDATA[Get exercises and announcements]]></description>
         <atom:link href="http://sejdm.github.io/mth303/rss.xml" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>2025-08-11T20:39:59+5:30</lastBuildDate>
+        <lastBuildDate>2025-08-12T13:30:14+5:30</lastBuildDate>
         <item>
+    <title>Lecture slide 6</title>
+    <link>http://sejdm.github.io/mth303/texslides/2025-08-12-slides06.pdf</link>
+    <description><![CDATA[Lecture slide 6 has been posted.]]></description>
+    <pubDate>Tue, 12 Aug 2025 00:00:00 UT</pubDate>
+    <guid>http://sejdm.github.io/mth303/texslides/2025-08-12-slides06.pdf</guid>
+    <dc:creator>Shane D'Mello</dc:creator>
+</item>
+<item>
     <title>Lecture slide 4</title>
     <link>http://sejdm.github.io/mth303/texslides/2025-08-08-slides04.pdf</link>
     <description><![CDATA[Lecture slide 4 has been posted.]]></description>
