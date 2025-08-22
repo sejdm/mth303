@@ -8,8 +8,16 @@
         <name>Shane D'Mello</name>
         <email>shane@iisermohali.ac.in</email>
     </author>
-    <updated>2025-08-12T16:53:50+5:30</updated>
+    <updated>2025-08-22T11:43:16+5:30</updated>
     <entry>
+    <title>Exercise sheet 2</title>
+    <link href="http://sejdm.github.io/mth303/assignments/2025-08-19-exercise02.html" />
+    <id>http://sejdm.github.io/mth303/assignments/2025-08-19-exercise02.html</id>
+    <published>2025-08-19T00:00:00Z</published>
+    <updated>2025-08-22T11:43:16+5:30</updated>
+    <summary type="html"><![CDATA[Exercise sheet 2 has been posted.]]></summary>
+</entry>
+<entry>
     <title>Lecture slide 5</title>
     <link href="http://sejdm.github.io/mth303/texslides/2025-08-11-slides05.pdf" />
     <id>http://sejdm.github.io/mth303/texslides/2025-08-11-slides05.pdf</id>
@@ -64,14 +72,6 @@
     <published>2025-08-08T00:00:00Z</published>
     <updated>2025-08-09T12:03:00+5:30</updated>
     <summary type="html"><![CDATA[Exercise sheet 1 has been posted.]]></summary>
-</entry>
-<entry>
-    <title>Exercise sheet 2</title>
-    <link href="http://sejdm.github.io/mth303/assignments/2025-08-19-exercise02.html" />
-    <id>http://sejdm.github.io/mth303/assignments/2025-08-19-exercise02.html</id>
-    <published>2025-08-19T00:00:00Z</published>
-    <updated>2025-08-09T07:03:19+5:30</updated>
-    <summary type="html"><![CDATA[Exercise sheet 2 has been posted.]]></summary>
 </entry>
 
 </feed>
